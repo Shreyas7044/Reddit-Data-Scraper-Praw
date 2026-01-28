@@ -24,7 +24,7 @@ This project demonstrates how to scrape Reddit data using Python and the PRAW li
 ---
 
 ## 📸 Output
-![Application Screenshot]()
+![Application Screenshot](Reddit-Data-Scraper-Praw/screenshot.png)
 
 ---
 
